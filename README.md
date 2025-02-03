@@ -1,1 +1,1 @@
-# Gerenciador---Arcanum-Lux
+# Aplicativo_Arcanum-Lux
