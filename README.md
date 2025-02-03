@@ -16,7 +16,7 @@ Esta é uma aplicação criada para colocar em prática os conhecimentos em Java
 
 ### O desafio
 <p align="justify">O desafio consiste em criar uma solução para atender um requisito de um projeto:</p>
-<p align="justify">A Boutique Arcanum Lux é uma loja de artigos de luxo e colecionáveis, levando o lema "Exclusividade e Legado", garante aos clientes de alto nível uma sensação de conforto e elegância, com itens únicos e memoráveis. Devido estar expandindo seu catálogo de itens disponíveis, viu-se a necessidade de criar um catálogo interno de produtos para melhor gerenciamento e acesso dos produtos pela equipe colaboradora, garantindo assim uma melhor prestação de serviços. </p>
+<p align="justify">A Boutique Arcanum Lux é uma loja de artigos de luxo e colecionáveis, levando o lema "Exclusividade e Legado", garante aos clientes de alto nível uma sensação de conforto e elegância, com itens únicos e memoráveis. Devido estar expandindo seu catálogo de itens disponíveis, viu-se a necessidade de criar um aplicativo interno de produtos para melhor gerenciamento e acesso dos itens pela equipe colaboradora, garantindo assim uma melhor prestação de serviços. </p>
 <p align="justify">Atualmente, o controle de inventário está sendo feito manualmente em planilhas, o que tem se mostrado ineficiente e propenso a erros, especialmente quando se trata de atualizações rápidas ou buscas específicas. Para resolver esse problema, a boutique decidiu contratar meus serviços para desenvolver uma aplicação que permita a gestão automatizada do inventário de produtos, facilitando operações como adicionar novos produtos, listar produtos existentes, atualizar informações e remover itens obsoletos. </p>
 
 ### Requisitos do desafio
